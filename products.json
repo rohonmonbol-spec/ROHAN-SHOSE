@@ -1,0 +1,34 @@
+[
+  {
+    "id": "nike-1",
+    "title": "NIKE Air Max",
+    "price": 100.99,
+    "img": "image/shoes1.png",
+    "rating": 5,
+    "description": "Lightweight running shoe with premium cushioning."
+  },
+  {
+    "id": "nike-2",
+    "title": "NIKE Zoom",
+    "price": 200.99,
+    "img": "image/shoes2.png",
+    "rating": 4.5,
+    "description": "Responsive midsole for fast-paced runs."
+  },
+  {
+    "id": "nike-3",
+    "title": "NIKE Runner",
+    "price": 175.99,
+    "img": "image/shoes3.png",
+    "rating": 4,
+    "description": "All-purpose sneaker for daily wear."
+  },
+  {
+    "id": "nike-4",
+    "title": "NIKE Casual",
+    "price": 120.99,
+    "img": "image/shoes4.png",
+    "rating": 4,
+    "description": "Comfortable casual shoe with classic look."
+  }
+]
